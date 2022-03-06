@@ -6,6 +6,7 @@ import (
 	"log"
 	"time"
 
+	// FIX DIR
 	pb "github.com/achmang/discord-test-client/discord-test-client/proto"
 	"google.golang.org/grpc"
 )
