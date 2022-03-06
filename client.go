@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	pb "github.com/achmang/go-discord-chat/proto"
+	pb "github.com/achmang/discord-test-client/discord-test-client/proto"
 	"google.golang.org/grpc"
 )
 
